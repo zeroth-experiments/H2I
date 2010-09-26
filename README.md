@@ -15,6 +15,6 @@ __How to compile:__
 `make`
 
 
-Thats it you are done now run `./H2I` and Enjoy :-)
+That's it you are done now run `./H2I` or `H2I.exe` and Enjoy :-)
 
 
