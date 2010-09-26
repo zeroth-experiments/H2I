@@ -9,10 +9,10 @@ Web Page : [H2I](http://h2i.abhishekworld.in/ "H2I").
 
 __How to compile:__
 
-# `git clone git://github.com/zeroth/H2I.git`
-# `cd H2I\`
-# `qmake`
-# `make`
+`git clone git://github.com/zeroth/H2I.git`
+`cd H2I\`
+`qmake`
+`make`
 
 
 Thats it you are done now run `./H2I` and Enjoy :-)
