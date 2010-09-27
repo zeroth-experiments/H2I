@@ -175,6 +175,8 @@ void MainWindow::slotSaveImage()
     QString fileUrl = "file:///" + fileName;
 
     //QDesktopServices::openUrl(QUrl(fileUrl));
+    
+    // FIX-ME to show the bigger images test case http://thezeroth.net/blog
     ImageDialog dialog;
     dialog.setWindowTitle(QString("%1 - %2").arg(fileName).arg("H2I - Image"));
     dialog.setImage(im);
