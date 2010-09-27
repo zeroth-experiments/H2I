@@ -5,7 +5,7 @@ H2I
 Author   : __Abhishek Patil__   
 Web Page : [H2I](http://h2i.abhishekworld.in/ "H2I").   
 
-![Alt Screenshot](http://github.com/zeroth/H2I/blob/master/ScreenShots/main.png)   
+![Alt Screenshot](http://github.com/zeroth/H2I/raw/master/ScreenShots/main.png)   
 
 >This tool is written in Qt C++ and uses QtWebKit
 
