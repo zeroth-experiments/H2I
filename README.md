@@ -3,7 +3,9 @@ H2I
 >__Html to Image converter__
 
 Author   : __Abhishek Patil__   
-Web Page : [H2I](http://h2i.abhishekworld.in/ "H2I").
+Web Page : [H2I](http://h2i.abhishekworld.in/ "H2I").   
+
+![Alt Screenshot] (ScreenShots/main.png)   
 
 >This tool is written in Qt C++ and uses QtWebKit
 
